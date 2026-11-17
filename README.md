@@ -1,6 +1,10 @@
 # GTA VI Twitch CCU Forecaster
 
-Entry for make.fun competition `gta6-twitch-ccu-forecast-01`: forecast Twitch
+[![make.fun](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01)
+[![rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/Goatleaf12/makefun-gta6-twitch-01/rank.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01)
+[![reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/Goatleaf12/makefun-gta6-twitch-01/reward.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01)
+
+Entry for make.fun competition `gta6-twitch-ccu-forecast-01` ([bounty](https://make.fun/bounty/gta6-twitch-ccu-forecast-01)): forecast Twitch
 concurrent viewers in the Grand Theft Auto VI category for hours 2–24 of
 release day (19 Nov 2026 UTC), five quantiles per hour, scored by pinball
 loss on the log scale.
